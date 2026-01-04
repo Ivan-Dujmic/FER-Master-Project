@@ -2,5 +2,6 @@
 .ipynb_checkpoints/
 __pycache__/
 venv/
-promptOutput.txt
-promptExpected.txt
+prompt_texts/user.txt
+prompt_texts/expected.txt
+prompt_texts/results.txt
