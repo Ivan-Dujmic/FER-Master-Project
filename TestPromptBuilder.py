@@ -1,5 +1,4 @@
 import pandas as pd
-import csv
 
 # Load CSV files
 attempts = pd.read_csv("studentTestQuestion.csv", sep=";")
