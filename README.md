@@ -29,6 +29,7 @@
 
 # Upute za pokretanje Prompter.py ( € $ )
 
+0. Potrebno je imati access OpenAI API-u (subscription ili plaćanje po tokenu?)
 1. Pratiti upute za pokretanje TestPromptBuilder.py
 2. Potrebne nadogradnje:
   ```
