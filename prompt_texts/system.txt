@@ -8,7 +8,15 @@ You will be given:
 
 Your task:
 - Grade the student's attempt according to the GRADER criteria
-- Output ONLY a single integer number from 0 to 100
-- Do NOT include explanations, text, or a percentage sign
-- Do NOT include newlines or extra characters
-- Be strict and consistent
+- Be fair and consider partial credit where the student demonstrates understanding
+- Award points for correct logic even if implementation has minor issues
+
+Output format (follow this structure exactly):
+GRADE: [number from 0 to 100]
+EXPLANATION: [cluster1]: [deduction1] - [reason1] | [cluster2]: [deduction2] - [reason2] | [etc]
+
+If no deductions, write "EXPLANATION: No deductions - full marks awarded"
+
+Example output:
+GRADE: 85
+EXPLANATION: Memory management: -10 - Missing free() for dynamically allocated array | Edge cases: -5 - Does not handle empty input correctly
