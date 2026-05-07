@@ -2,6 +2,8 @@ _This is a fork_
 
 [Associated FER course](https://www.fer.unizg.hr/predmet/pro_dipl)
 
+Research done by a team of three.
+
 # Upute za pokretanje jupyter bilježnica
 
 1. Potrebne nadogradnje:
